@@ -47,15 +47,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPark7448&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
----
 
 <p align="center">
   🔗 <a href="https://www.linkedin.com/in/danielpark/">LinkedIn</a> 
