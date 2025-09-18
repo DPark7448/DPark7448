@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/danielpark/">LinkedIn</a> • 🌐 <a href="https://github.com/DPark7448">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/danielpark/">LinkedIn</a> 
 </p>
