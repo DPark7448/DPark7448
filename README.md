@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <!-- Animated name via SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Daniel+Park;Final+Year+CPA+Student;Full-Stack+%2B+iOS+Dev;Entrepreneur+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Daniel+Park;Full-Stack+%2B+iOS+Dev;Entrepreneur+%7C+Builder" alt="Typing SVG" />
 </p>
 
 ---
