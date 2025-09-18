@@ -34,16 +34,6 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
-
-| Project | Description |
-|---------|-------------|
-| [PokéMart](https://github.com/DPark7448/PokeMart) | Pokémon trading card marketplace (Next.js + MongoDB) |
-| [Pawnect](https://github.com/DPark7448/Pawnect) | Pet-care marketplace with sitter verification |
-| [Real Estate Finder](https://github.com/DPark7448/RealEstateFinder) | iOS Zillow API app with Core Data |
-
----
-
 <p align="center">
   🔗 <a href="https://www.linkedin.com/in/danielpark/">LinkedIn</a> • 🌐 <a href="https://github.com/DPark7448">GitHub</a>
 </p>
