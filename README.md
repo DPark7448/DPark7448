@@ -9,8 +9,7 @@
 <h3 align="center"> About Me </h3>
 
 <p align="center">
-  Passionate about <b>software engineering</b>, <b>iOS apps</b>, and <b>entrepreneurship</b>.  
-  Always building projects that mix <i>performance + usability</i>.
+  Computer Programming & Analysis Student | Passion for UI/UX & Full-Stack Development | Seeking Software Development Opportunities</i>.
 </p>
 
 ---
