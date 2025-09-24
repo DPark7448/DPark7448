@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  🔗 <a href="[https://www.linkedin.com/in/danielpark](https://www.linkedin.com/in/daniel-park-79594919a/)/">LinkedIn</a> 
+  🔗 <a href="https://www.linkedin.com/in/daniel-park-79594919a/)/">LinkedIn</a> 
 </p>
